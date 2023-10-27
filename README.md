@@ -9,6 +9,16 @@
 
 查看完整的介紹、後記及更多字型等請麻煩移駕至[鄙人的部落格（博客/Blog）](https://fontspeech.blogspot.com/)。
 
+# 特殊圖案
+
+此字體目前收錄的特殊圖案如下，關於連字及 Unicode 碼的輸入方式可於 [字言星雨體替換字使用說明書](https://drive.google.com/file/d/1RQrZQI7bH0WMVE2nm4ei7nG2kH1Mtvk8/view?usp=sharing) 參照參考。
+
+![特殊圖案](./README_PIC/7x7special.png)
+
+※請注意連字功能必須依照表格所列輸入，所有字符皆為半形（半角）并且大小寫敏感。
+
+# 字體介紹
+
 ![圖片1](https://github.com/scott0107000/BoutiqueBitmap7x7/blob/9f0788524045082a216987151c9c6bec8867921f/README_PIC/%E6%9C%AA%E5%91%BD%E5%90%8D-1.png)
 ![圖片2](https://github.com/scott0107000/BoutiqueBitmap7x7/blob/9f0788524045082a216987151c9c6bec8867921f/README_PIC/%E6%9C%AA%E5%91%BD%E5%90%8D-2.png)
 ![圖片3](https://github.com/scott0107000/BoutiqueBitmap7x7/blob/9f0788524045082a216987151c9c6bec8867921f/README_PIC/%E6%9C%AA%E5%91%BD%E5%90%8D-3.png)
