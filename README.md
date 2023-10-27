@@ -5,6 +5,8 @@
 《精品點陣體7×7 (BoutiqueBitmap7x7) 》是一款基於美咲フォント改作的字型，目的為適合在繁體中文環境中使用。我們改正了一些標點符號、日本習慣寫法、增加大量字符，使字型使用更方便！
 這是一款帶有極強烈的點陣風格的字型，非常適合用在像素畫、遊戲相關主題等等。
 
+[![變化字型](./README_PIC/FUN7x7-0.png)](https://github.com/scott0107000/BoutiqueBitmap7x7/tree/main/FUN)
+
 查看完整的介紹、後記及更多字型等請麻煩移駕至[鄙人的部落格（博客/Blog）](https://fontspeech.blogspot.com/)。
 
 ![圖片1](https://github.com/scott0107000/BoutiqueBitmap7x7/blob/9f0788524045082a216987151c9c6bec8867921f/README_PIC/%E6%9C%AA%E5%91%BD%E5%90%8D-1.png)
